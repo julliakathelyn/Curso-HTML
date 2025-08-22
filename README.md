@@ -41,20 +41,12 @@ Durante meus estudos, utilizei a seguinte playlist do YouTube como base:
 - 📚 Consolidar fundamentos do HTML.   
 - 📝 Registrar a evolução no aprendizado HTML.
 
-## ✅ Habilidades Desenvolvidas  
-
-- Estruturação de páginas HTML básicas e múltiplas.  
-- Inserção de imagens, áudios e vídeos.  
-- Criação de formulários funcionais.  
-- Navegação entre páginas e seções.  
-- Uso de tags semânticas para melhor organização e acessibilidade.  
-
 ## 🚀 Próximos Passos  
 
 - Aprimorar o uso de **CSS** para estilização das páginas.  
 - Explorar conceitos de **responsividade**.  
 - Avançar para **JavaScript** e tornar os sites interativos.
 
-  <p align="center">
+<p align="center">
 <img src="img-html/img-3.png" alt="App Screenshot" width="600"/> 
-  </p>
+</p>
