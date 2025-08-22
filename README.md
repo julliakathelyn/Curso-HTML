@@ -50,3 +50,5 @@ Durante meus estudos, utilizei a seguinte playlist do YouTube como base:
 <p align="center">
 <img src="img-html/img-3.png" alt="App Screenshot" width="600"/> 
 </p>
+
+---
