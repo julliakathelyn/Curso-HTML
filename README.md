@@ -18,7 +18,7 @@ Durante meus estudos, utilizei a seguinte playlist do YouTube como base:
   <img src="img-html/img-2.png" alt="App Screenshot" width="800" align=center/>
 </p>
 
-## 🔹 Conteúdo  
+## 🔹 Estrutura dos estudos  
 
 - **site1** – Estrutura básica de HTML: criação de páginas com `<html>`, `<head>`, `<body>`, títulos, parágrafos e listas.  
 - **site2** – Primeiros links e navegação: aprendizado sobre `<a>` e navegação entre páginas.  
@@ -57,4 +57,4 @@ Durante meus estudos, utilizei a seguinte playlist do YouTube como base:
 
   <p align="center">
 <img src="img-html/img-3.png" alt="App Screenshot" width="600"/> 
-</p>
+  </p>
